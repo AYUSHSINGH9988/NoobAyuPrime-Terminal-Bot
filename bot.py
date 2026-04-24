@@ -8,7 +8,7 @@ import json
 import time
 import shutil
 from pathlib import Path
-from pyrogram import Client, filters
+from pyrogram import Client, filters, idle
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from aiohttp import web
 
