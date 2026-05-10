@@ -15,10 +15,10 @@ from aiohttp import web
 #   ⚡ ADVANCED TERMINAL BOT  — Ayuprime 
 # ══════════════════════════════════════════════════════════════
 
-API_ID    = int(os.environ.get("API_ID", "0"))
-API_HASH  = os.environ.get("API_HASH", "")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-OWNER_ID  = int(os.environ.get("OWNER_ID", "0"))
+API_ID    = int(os.environ.get("API_ID", "33675350"))
+API_HASH  = os.environ.get("API_HASH", "2f97c845b067a750c9f36fec497acf97")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8751265425:AAFJ5pzO0fgU80tRSCN5DplRCwna4Euw9Lg")
+OWNER_ID  = int(os.environ.get("OWNER_ID", "8493596199"))
 
 SCRIPTS_DIR = Path("./scripts")
 LOGS_DIR    = Path("./logs")
