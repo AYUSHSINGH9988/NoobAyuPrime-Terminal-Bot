@@ -19,7 +19,7 @@ import motor.motor_asyncio
 
 API_ID           = int(os.environ.get("API_ID", "33675350"))
 API_HASH         = os.environ.get("API_HASH", "2f97c845b067a750c9f36fec497acf97")
-BOT_TOKEN        = os.environ.get("BOT_TOKEN", "8787057992:AAGVOgykB3Lj13dBT0gy15TammjtI633S7A")
+BOT_TOKEN        = os.environ.get("BOT_TOKEN", "8644839571:AAGTIo0Bfxc8y-BommwhJhbVUp1uTP66kAI")
 OWNER_ID         = int(os.environ.get("OWNER_ID", "8493596199"))
 MONGO_URI        = os.environ.get("MONGO_URI", "")
 MAX_UPTIME_HRS   = int(os.environ.get("MAX_UPTIME_HRS", "40"))
