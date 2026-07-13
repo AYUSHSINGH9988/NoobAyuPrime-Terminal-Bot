@@ -1,3 +1,7 @@
-pyrogram
+pyrogram==2.0.106
 tgcrypto
-aiohttp
+aiohttp>=3.9.0
+psutil
+motor
+
+
